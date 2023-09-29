@@ -1,10 +1,10 @@
 P-S UPDATE DONE 😍 #PAID TOOLS
 
+termux-setup-storage
+
 pkg update
 
 pkg upgrade
-
-pkg install git
 
 pkg install python
 
@@ -14,9 +14,15 @@ pip install requests
 
 pip install mechanize
 
+pkg install python2 git nodejs
+
 pip install lolcat
 
+pip install rich
+
 pip install bs4
+
+pkg install git
 
 git clone https://github.com/SKBER-CYBER/P-S
 
