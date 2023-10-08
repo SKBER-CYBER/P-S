@@ -28,5 +28,5 @@ git clone https://github.com/SKBER-CYBER/P-S
 
 cd P-S
 
-python P-S.py
+python Free.py
 # P-S
